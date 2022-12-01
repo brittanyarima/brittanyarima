@@ -10,8 +10,8 @@ I'm a self-taught iOS developer
 
 
  ### Skills
-- 🎨 SwiftUI
-- 📲 UIKit
+<br> 🎨 SwiftUI
+<br> 📲 UIKit
  
 
                     
