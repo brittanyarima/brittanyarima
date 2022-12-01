@@ -1,4 +1,15 @@
-### Hi there 👋
+# 👋 Hi, I'm Brittany
+
+**`iOS Developer fueled by coffee`**
+
+I'm a self-taught iOS developer...
+
+---
+
+### 🧰 Language and Tools
+ <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+          
+
 
 <!--
 **brittanyarima/brittanyarima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
