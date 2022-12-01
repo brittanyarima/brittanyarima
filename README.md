@@ -6,12 +6,17 @@ I'm a self-taught iOS developer
 
 ---
 
-### About
+### 😁 About
+- 💻 I started teaching myself iOS Development in 2020, during the pandemic
+- ☕️ I'm a barista in the mornings, and build projects/code in the evenings
+- 🖌️ I'm a big SwiftUI fan and love learning new frameworks
+- 🫶 BIG Google & Stack Overflow fan 
+- 👀 I'm currenlty on the search for my first iOS job
 
 
  ### Skills
-<br> 🎨 SwiftUI
-<br> 📲 UIKit
+- 🎨 SwiftUI
+- 📲 UIKit
  
 
                     
