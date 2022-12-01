@@ -6,10 +6,14 @@ I'm a self-taught iOS developer
 
 ---
 
+### About
+
+
  ### Skills
- 🎨 SwiftUI
- 📲 UIKit
+- 🎨 SwiftUI
+- 📲 UIKit
  
+
                     
 
      
