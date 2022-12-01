@@ -4,10 +4,11 @@
 
 I'm a self-taught iOS developer
 
-<p>
-<img src="https://img.shields.io/badge/britcodes%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</p>
+<div style="display:flex;justify-content:center;">
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/britcodes?logo=twitter&style=for-the-badge)](https://twitter.com/britcodes)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/britcodes)
+ </div>
 
 ---
 
