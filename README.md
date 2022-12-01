@@ -27,8 +27,7 @@
 - ❇️ WidgetKit
 
 
-### Check Out My Portfolio
-💼 **[Portfolio]([https://github.com/brittanyarima/iOS-Developer-Portfolio])**
+### 💼 **[My GitHub Portfolio](https://github.com/brittanyarima/iOS-Developer-Portfolio)**
  
        
           
