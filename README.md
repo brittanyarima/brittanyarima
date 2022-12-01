@@ -2,8 +2,6 @@
 
 **`iOS Developer fueled by coffee`**
 
-I'm a self-taught iOS developer
-
 <div style="display:flex;justify-content:center;">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/britcodes?logo=twitter&style=for-the-badge)](https://twitter.com/britcodes)
@@ -23,12 +21,12 @@ I'm a self-taught iOS developer
  ### Skills
 - 🎨 SwiftUI
 - 📲 UIKit
+- 💽 Core Data
+- 🔥 Firebase
+- 📍 MapKit
+- ❇️ WidgetKit
  
-
-                    
-
-     
-          
+       
           
 
 
