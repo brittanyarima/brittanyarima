@@ -25,6 +25,8 @@
 - 🔥 Firebase
 - 📍 MapKit
 - ❇️ WidgetKit
+
+[![Brittany's github stats](https://github-readme-stats.vercel.app/api?username=brittanyarima)](https://github.com/brittanyarima/github-readme-stats)
  
        
           
