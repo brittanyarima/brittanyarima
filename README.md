@@ -2,6 +2,8 @@
 
 **`iOS Developer fueled by coffee`**
 
+### 💼 **[My GitHub Portfolio](https://github.com/brittanyarima/iOS-Developer-Portfolio)**
+
 <div style="display:flex;justify-content:center;">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/britcodes?logo=twitter&style=for-the-badge)](https://twitter.com/britcodes)
@@ -25,12 +27,6 @@
 - 🔥 Firebase
 - 📍 MapKit
 - ❇️ WidgetKit
-
-
-### 💼 **[My GitHub Portfolio](https://github.com/brittanyarima/iOS-Developer-Portfolio)**
- 
-       
-          
 
 
 <!--
