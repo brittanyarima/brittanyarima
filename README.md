@@ -4,12 +4,6 @@
 
 ### 💼 **[My GitHub Portfolio](https://github.com/brittanyarima/iOS-Developer-Portfolio)**
 
-<div style="display:flex;justify-content:center;">
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/britcodes?logo=twitter&style=for-the-badge)](https://twitter.com/britcodes)
-[![Instagram Follow](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/britcodes)
- </div>
-
 ---
 
 ### About
