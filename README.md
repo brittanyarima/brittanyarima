@@ -8,8 +8,10 @@
 
 ### About
 - 💻 I started teaching myself iOS Development in 2020, during the pandemic
-- 🖌️ I'm a big SwiftUI fan and love learning new frameworks
-- 🫶 BIG Google & Stack Overflow fan 
+- 🖌️ I'm a big SwiftUI fan
+- 📱 When I'm not freelancing, I'm probably building a new indie app (or hanging with my family of course)
+
+
 
  ### Skills
 - 🎨 SwiftUI
