@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Brittany
 
-**`iOS Developer fueled by coffee`**
+**`iOS Engineer fueled by coffee`**
 
 ### 💼 **[My GitHub Portfolio](https://github.com/brittanyarima/iOS-Developer-Portfolio)**
 
