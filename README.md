@@ -9,18 +9,8 @@
 ### About
 - 💻 I started teaching myself iOS Development in 2020, during the pandemic
 - 🖌️ I'm a big SwiftUI fan
-- 📱 When I'm not freelancing, I'm probably building a new indie app (or hanging with my family of course)
-
-
-
- ### Skills
-- 🎨 SwiftUI
-- 📲 UIKit
-- 💽 Core Data
-- 🔥 Firebase
-- 📍 MapKit
-- ❇️ WidgetKit
-
+- 👩‍💻 Currently working at [YouVersion](https://www.linkedin.com/company/youversion/posts/?feedView=all) as an iOS Engineer (Dream job!)
+- 📱 When I'm not working, I'm probably building a new indie app (or hanging with my family of course)
 
 <!--
 **brittanyarima/brittanyarima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
